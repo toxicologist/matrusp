@@ -1,0 +1,5 @@
+beautifulsoup4
+aiohttp
+html5lib
+python-dateutil
+multi-key-dict
